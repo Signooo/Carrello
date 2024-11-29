@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carrello con prodotti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26c8a6d89b5849df510b5da03740d071f2f8906a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carrello con prodotti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carrello con prodotti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

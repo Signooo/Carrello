@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\INFORMATICA\\Carrello con prodotti\\",
+  "WorkspaceRootPath": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|f:\\informatica\\carrello con prodotti\\carrello con prodotti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|c:\\users\\signorini.21287\\desktop\\carrello\\carrello con prodotti\\carrello con prodotti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|solutionrelative:carrello con prodotti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|f:\\informatica\\carrello con prodotti\\carrello con prodotti\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|c:\\users\\signorini.21287\\desktop\\carrello\\carrello con prodotti\\carrello con prodotti\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|solutionrelative:carrello con prodotti\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|f:\\informatica\\carrello con prodotti\\carrello con prodotti\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|c:\\users\\signorini.21287\\desktop\\carrello\\carrello con prodotti\\carrello con prodotti\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|solutionrelative:carrello con prodotti\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|F:\\INFORMATICA\\Carrello con prodotti\\carrello con prodotti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|c:\\users\\signorini.21287\\desktop\\carrello\\carrello con prodotti\\carrello con prodotti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CF0687C0-7FE9-48AA-A9EA-171CA18A640E}|Carrello con prodotti\\Carrello con prodotti.csproj|solutionrelative:carrello con prodotti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs",
               "RelativeDocumentMoniker": "Carrello con prodotti\\Form1.cs",
-              "ToolTip": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs",
+              "ToolTip": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs",
               "RelativeToolTip": "Carrello con prodotti\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:36:34.287Z",
               "IsPinned": true,
@@ -46,11 +46,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Carrello.cs",
-              "DocumentMoniker": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Carrello.cs",
+              "DocumentMoniker": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Carrello.cs",
               "RelativeDocumentMoniker": "Carrello con prodotti\\Carrello.cs",
-              "ToolTip": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Carrello.cs",
+              "ToolTip": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Carrello.cs",
               "RelativeToolTip": "Carrello con prodotti\\Carrello.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:26:34.788Z",
               "EditorCaption": ""
@@ -59,11 +59,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Prodotto.cs",
-              "DocumentMoniker": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Prodotto.cs",
               "RelativeDocumentMoniker": "Carrello con prodotti\\Prodotto.cs",
-              "ToolTip": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Prodotto.cs",
               "RelativeToolTip": "Carrello con prodotti\\Prodotto.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:26:13.365Z",
               "EditorCaption": ""
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs",
               "RelativeDocumentMoniker": "Carrello con prodotti\\Form1.cs",
-              "ToolTip": "F:\\INFORMATICA\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs [Progettazione]",
+              "ToolTip": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello con prodotti\\Carrello con prodotti\\Form1.cs [Progettazione]",
               "RelativeToolTip": "Carrello con prodotti\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:25:20.435Z",

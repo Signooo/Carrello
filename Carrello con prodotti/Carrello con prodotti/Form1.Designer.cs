@@ -32,6 +32,7 @@
             button2 = new Button();
             Carrello = new ListBox();
             label1 = new Label();
+            button3 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -72,11 +73,22 @@
             label1.TabIndex = 5;
             label1.Text = "label1";
             // 
+            // button3
+            // 
+            button3.Location = new Point(537, 377);
+            button3.Name = "button3";
+            button3.Size = new Size(122, 65);
+            button3.TabIndex = 6;
+            button3.Text = "RIMUOVI TUTTO";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1362, 601);
+            Controls.Add(button3);
             Controls.Add(label1);
             Controls.Add(Carrello);
             Controls.Add(button2);
@@ -93,5 +105,6 @@
         private Button button2;
         private ListBox Carrello;
         private Label label1;
+        private Button button3;
     }
 }
