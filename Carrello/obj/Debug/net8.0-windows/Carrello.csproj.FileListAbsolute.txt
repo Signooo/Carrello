@@ -1,0 +1,17 @@
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.Form1.resources
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.csproj.GenerateResource.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.AssemblyInfoInputs.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.AssemblyInfo.cs
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.csproj.CoreCompileInputs.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.sourcelink.json
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\bin\Debug\net8.0-windows\Carrello.exe
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\bin\Debug\net8.0-windows\Carrello.deps.json
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\bin\Debug\net8.0-windows\Carrello.runtimeconfig.json
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\bin\Debug\net8.0-windows\Carrello.dll
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\bin\Debug\net8.0-windows\Carrello.pdb
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.dll
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\refint\Carrello.dll
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.pdb
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\Carrello.genruntimeconfig.cache
+C:\Users\Signorini.21287\Desktop\Carrello\Carrello\obj\Debug\net8.0-windows\ref\Carrello.dll
