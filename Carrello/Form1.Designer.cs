@@ -32,6 +32,10 @@
             button2 = new Button();
             button3 = new Button();
             listBox1 = new ListBox();
+            comboBox1 = new ComboBox();
+            radioButton1 = new RadioButton();
+            radioButton2 = new RadioButton();
+            radioButton3 = new RadioButton();
             SuspendLayout();
             // 
             // button1
@@ -56,7 +60,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(522, 150);
+            button3.Location = new Point(553, 139);
             button3.Name = "button3";
             button3.Size = new Size(75, 23);
             button3.TabIndex = 2;
@@ -70,14 +74,61 @@
             listBox1.ItemHeight = 15;
             listBox1.Location = new Point(363, 68);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(120, 94);
+            listBox1.Size = new Size(164, 94);
             listBox1.TabIndex = 3;
+            // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "Iphone 11", "Banana", "Felpa" });
+            comboBox1.Location = new Point(82, 224);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(121, 23);
+            comboBox1.TabIndex = 4;
+            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            // 
+            // radioButton1
+            // 
+            radioButton1.AutoSize = true;
+            radioButton1.Location = new Point(214, 334);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(139, 19);
+            radioButton1.TabIndex = 5;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "Prodotto Tecnologico";
+            radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // radioButton2
+            // 
+            radioButton2.AutoSize = true;
+            radioButton2.Location = new Point(382, 334);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(136, 19);
+            radioButton2.TabIndex = 6;
+            radioButton2.TabStop = true;
+            radioButton2.Text = "Prodotto Ailimentare";
+            radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            radioButton3.AutoSize = true;
+            radioButton3.Location = new Point(543, 334);
+            radioButton3.Name = "radioButton3";
+            radioButton3.Size = new Size(122, 19);
+            radioButton3.TabIndex = 7;
+            radioButton3.TabStop = true;
+            radioButton3.Text = "Prodotto Generico";
+            radioButton3.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(radioButton3);
+            Controls.Add(radioButton2);
+            Controls.Add(radioButton1);
+            Controls.Add(comboBox1);
             Controls.Add(listBox1);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -85,6 +136,7 @@
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -93,5 +145,9 @@
         private Button button2;
         private Button button3;
         private ListBox listBox1;
+        private ComboBox comboBox1;
+        private RadioButton radioButton1;
+        private RadioButton radioButton2;
+        private RadioButton radioButton3;
     }
 }
