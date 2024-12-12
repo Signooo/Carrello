@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello\\Carrello.csproj": {}
+    "E:\\INFORMATICA\\Carrello\\Carrello\\Carrello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello\\Carrello.csproj": {
+    "E:\\INFORMATICA\\Carrello\\Carrello\\Carrello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello\\Carrello.csproj",
+        "projectUniqueName": "E:\\INFORMATICA\\Carrello\\Carrello\\Carrello.csproj",
         "projectName": "Carrello",
-        "projectPath": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello\\Carrello.csproj",
-        "packagesPath": "C:\\Users\\Signorini.21287\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Signorini.21287\\Desktop\\Carrello\\Carrello\\obj\\",
+        "projectPath": "E:\\INFORMATICA\\Carrello\\Carrello\\Carrello.csproj",
+        "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
+        "outputPath": "E:\\INFORMATICA\\Carrello\\Carrello\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Signorini.21287\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carrello")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a33d676a72cc2e00bb2d18bc98483691963196b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da56e44e9928e87dd7981ac331c384aa7390af17")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carrello")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carrello")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
